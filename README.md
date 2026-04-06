@@ -33,20 +33,20 @@ A powerful and engaging native Android application for browsing recipes and mana
 * **Features:** Remote API fetching, offline caching of favorite recipes, UI state management, and real-time updates.
 * **Architecture:** MVP (Model-View-Presenter), **RxJava** for reactive background threading, and **Room Database** for robust local persistence.
 
-#### 3. [WeatherBug (Flutter)](https://github.com/ahmedelkady757/WeatherBug)
-A beautiful, cross-platform weather forecasting application built with **Flutter**.
-* **Features:** Clean and responsive UI targeting multiple screen sizes, real-time weather API integration, detailed daily/hourly forecasting, location services, and fluid animations.
-* **Architecture:** Clean Architecture principles with custom State Management.
+#### 3. [WeatherBug (Android)](https://github.com/ahmedelkady757/WeatherBug)
+A native Android weather forecasting application delivering highly accurate localized data.
+* **Features:** Real-time weather API integration, detailed daily/hourly forecasting, location services, and clean UI components.
+* **Architecture:** Modern Android architecture principles handling dynamic data updates seamlessly.
 
-#### 4. [Toku (Android)](https://github.com/ahmedelkady757/toku)
-A highly interactive Android language-learning application designed to help users learn basic vocabulary and phrases.
-* **Features:** Multimedia integration with localized audio playback for translations, custom list adapters, and a polished user interface.
-* **Architecture:** Java, Custom `ListView`/`RecyclerView` Adapters, and MediaPlayer lifecycle management.
+#### 4. [Toku (Flutter)](https://github.com/ahmedelkady757/toku)
+A beautiful, cross-platform language-learning application built with **Flutter**.
+* **Features:** Highly interactive multimedia integration with localized audio playback for learning new vocabulary and phrases seamlessly on both iOS and Android.
+* **Architecture:** Clean UI/UX design with responsive Flutter widget trees and cross-platform state management.
 
-#### 5. [Student System](https://github.com/ahmedelkady757/StudentSystem)
-A core data-management system designed to demonstrate mastery of Object-Oriented Programming (OOP) and strictly typed business logic.
-* **Features:** Handles student registration, data processing, and formatted I/O.
-* **Architecture:** Java SE, Advanced Data Structures, and clean OOP principles.
+#### 5. [Student System (Java Desktop)](https://github.com/ahmedelkady757/StudentSystem)
+A core data-management Desktop application designed to demonstrate mastery of solid software engineering principles.
+* **Features:** Handles student registration, complex data processing, and formatted I/O logic.
+* **Architecture:** Strictly typed Java SE Desktop implementation, utilizing advanced Data Structures and clean OOP (Object-Oriented Programming) principles.
 
 ---
 
