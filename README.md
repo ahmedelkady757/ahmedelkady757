@@ -56,5 +56,3 @@ A core data-management Desktop application designed to demonstrate mastery of so
 <!-- Add your email here if you like! -->
 <!-- <a href="mailto:your_email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a> -->
 </p>
-
-⭐️ *From Objective-C to RxJava and Flutter, I love building apps that perform flawlessly.*
